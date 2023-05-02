@@ -43,3 +43,7 @@
 따로 Git을 *설치*하지 않고도
 
 온라인 상에서 Git의 ***버전 관리 기능***을 사용할 수 있습니다.
+
+***
+>The information manager from hell.
+>> git means 'global infromation tracker'
