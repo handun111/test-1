@@ -70,3 +70,5 @@
 [구글](https://google.com, "검색 사이트")
 ***
 ![이미지 연습](https://picsum.photos/id/237/200/300)
+***
+![강아지](./images/doge.jpg)
